@@ -2,6 +2,7 @@
 //
 
 #include "stdafx.h"
+#include "MinOrMaxK.h"
 
 
 using namespace std;
